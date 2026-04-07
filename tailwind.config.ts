@@ -9,8 +9,25 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        ink: "#0A0908",
+        teal: "#22333B",
+        bone: "#EAE0D5",
+        tan: "#C6AC8F",
+        earth: "#5E503F",
+      },
+      fontFamily: {
+        display: ["DM Serif Display", "serif"],
+        serif: ["Cormorant Garamond", "serif"],
+        sans: ["Jost", "sans-serif"],
+        accent: ["Bebas Neue", "sans-serif"],
+      },
+      spacing: {
+        xs: "8px",
+        sm: "16px",
+        md: "24px",
+        lg: "40px",
+        xl: "64px",
+        "2xl": "96px",
       },
     },
   },

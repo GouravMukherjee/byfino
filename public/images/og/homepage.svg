@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#22333B"/>
+  <rect x="68" y="68" width="1064" height="494" stroke="rgba(198,172,143,0.28)"/>
+  <circle cx="1014" cy="510" r="190" fill="#C6AC8F" fill-opacity="0.07"/>
+  <circle cx="208" cy="126" r="120" fill="#EAE0D5" fill-opacity="0.05"/>
+  <path d="M608 162C558 174 498 209 458 262L406 434V518H810V434L758 262C718 209 658 174 608 162Z" fill="#C6AC8F" fill-opacity="0.13"/>
+  <path d="M608 162L458 262L538 418L608 350V162Z" fill="#22333B"/>
+  <path d="M608 162L758 262L678 418L608 350V162Z" fill="#22333B"/>
+  <path d="M608 382L590 498L608 528L626 498L608 382Z" fill="#EAE0D5" fill-opacity="0.42"/>
+  <text x="88" y="170" fill="#EAE0D5" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" letter-spacing="2">
+    FINO
+  </text>
+  <text x="88" y="278" fill="#EAE0D5" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-style="italic">
+    The suit that
+  </text>
+  <text x="88" y="368" fill="#EAE0D5" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-style="italic">
+    fits your life.
+  </text>
+  <text x="88" y="450" fill="#EAE0D5" fill-opacity="0.7" font-family="Arial, sans-serif" font-size="24" letter-spacing="4">
+    BESPOKE TAILORING · LOS GATOS, CALIFORNIA
+  </text>
+  <text x="88" y="512" fill="#C6AC8F" font-family="Arial, sans-serif" font-size="22" letter-spacing="3">
+    PRIVATE STUDIO · CUSTOM SUITS · BY APPOINTMENT
+  </text>
+</svg>
